@@ -3,13 +3,6 @@
 .about {
   display: flex;
   flex-direction: column;
-  overflow: hidden;
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-
-  &::-webkit-scrollbar {
-    display: none;
-  }
 
   .about-nav {
     display: flex;
