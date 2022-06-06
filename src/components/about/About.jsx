@@ -48,7 +48,7 @@ export default function About() {
                   Oh! And I love solving problems, so here is all of that in one neat package for you to see.
                   <br />
                   <br />
-                  I am currently employed by <a href="https://microsoft.com" target="_blank" rel="noreferrer">Microsoft</a> as a <span className="job">Program Manager II</span> out of Dallas, TX. Before my current role, I worked as a 
+                  I am currently employed by <a href="https://microsoft.com" target="_blank" rel="noreferrer">Microsoft</a> as a <span className="job">Data Engineer</span> out of Dallas, TX. Before my current role, I worked as a 
                   Beta Engineer and Support Engineer on Microsoft's CRM product, Dynamics. 
                   I graduated from Arizona State University in December of 2015 with a Bachelor of Science degree in Computer Systems Engineering.
                   <br />
